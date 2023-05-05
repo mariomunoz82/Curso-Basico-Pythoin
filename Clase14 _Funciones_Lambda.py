@@ -26,5 +26,9 @@ numeros=[-4,5,6,8,0,-3,-7,-9]
 x=filter(lambda x: x>0, numeros)
 print(list(x))
 
+<<<<<<< HEAD
+=======
+# Se agrega este comentario de pruebas
+
 
 
