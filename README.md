@@ -18,6 +18,8 @@ c.	git commit -m “cual es el cambio”
 5.	git branch  -M main
 6.	git remote add origin https://github.com/mariomunoz82/Curso-Basico-Pythoin.git (laruta es la ruta del nuevo repositorio)
 7.	git push -u origin main
+
+
 Pasos para guardar un cambio al repositorio
 1.	git status (para ver los cambios a guardar)
 2.	git add .
